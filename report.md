@@ -1,0 +1,1 @@
+In this assignment, I was showcasing my skills on how to work with both Git and GitHub by creating and filling up a basic html file and a text file, adding those files to the repository, making meaningful commits and pushing them to the respective branches, main and feature/student-details. 
